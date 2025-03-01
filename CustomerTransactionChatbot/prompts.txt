@@ -1,0 +1,37 @@
+Show all customer IDs
+
+List all transactions
+
+How many customers are there?
+
+What is the total number of transactions?
+
+Show the latest ____ transactions
+
+Find transactions for customer ID ___
+
+What is the total amount spent by customer ID ____?
+
+List customers in ____
+
+Show customers with more than ___ transactions
+
+Who is the highest spending customer?
+
+Show transactions above $___
+
+List transactions below $___
+
+What is the average transaction amount?
+
+Show the top 5 transactions
+
+List transactions between ___ and ___
+
+Show transactions for product Product ___
+
+What is the total revenue from Product ___?
+
+What is the most popular product?
+
+Which product has the highest average transaction?
